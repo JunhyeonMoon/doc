@@ -1,14 +1,14 @@
 # SpringBoot
 
-```@RestController : @Controller , @ResponseBody```
+@RestController : @Controller , @ResponseBody
 
-```@SpringBootApplication : @Configuration, @EnableAutoConfiguration, @ComponentScan```
+@SpringBootApplication : @Configuration, @EnableAutoConfiguration, @ComponentScan
 
 
 
 **Spring 구성요소**
 
-
+//TODO
 
 
 

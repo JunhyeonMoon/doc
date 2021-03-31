@@ -1,6 +1,6 @@
 # Angular Basic Concept
 
-https://angular.kr/guide/architecture
+<https://angular.kr/guide/architecture>
 
 
 
@@ -8,11 +8,15 @@ https://angular.kr/guide/architecture
 
 [Component](#component)
 
-[Template, Directive, Binding](#template,-directive,-binding)
+[Template, Directive, Binding](#template-directive-binding)
 
-[Service, Dependency Injection (DI)](#service,-dependency-injection-(di))
+[Service, Dependency Injection (DI)](#service-dependency-injection-(di))
 
 [Routing](#routing)
+
+
+
+<img src = "https://angular.kr/generated/images/guide/architecture/overview2.png">
 
 
 
@@ -72,4 +76,3 @@ Angular 라우터는 페이지 대신 뷰를 URL과 매핑한다. 링크를 클�
 아직 로드되지 않은 모듈로 전환을 시도하면, lazy loading을 사용해 모듈을 불러오고 난 후 뷰를 전환.
 
 라우터와 브라우저는 히스토리를 공유한다.
-
